@@ -14,6 +14,11 @@ $ ./prrecorder <output_file> <recording_time> <scheduled_date>
 PRRecorder records to OGG format adding ogg extension to the file name
 provided as long as the date prefix for easier recording identification.
 
+# Dependencies
+
+ - VLC
+ - at
+ - at deamon
 
 # More info
 The script is based on Micz Flor
